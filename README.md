@@ -5,6 +5,6 @@
 - Outside of the coding world, I'm interested in history, geopolitics, science, music, games, old/new technology and fishing.
 
 ### Languages: 
-- 🇧🇷 Fluent/Native speaker
+- 🇧🇷 Fluent/Native
 - 🇺🇸 Intermidiate/Advanced
 - 🇩🇪 Starting/Basics
