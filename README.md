@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### About me:
-- Begginer python programmer interested in back-end and web development.
-- My goal is to gain experience through various kinds of projects, hoping to start contributing to open source in the future !
-- Outside of the coding world, I'm interested in history, geopolitics, science, music, games, old/new technology and fishing.
+- Python programmer and CS student interested in back-end and web development.
+- My goal is to use my skills and knowledge to build a career around local OS applications, back-end, web development and open source projects.
+- Outside of the coding world, I'm interested in history, geopolitics, science, music, games, old/new technology, camping and reading.
 
 ### Languages: 
 - 🇧🇷 Fluent/Native
