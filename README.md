@@ -7,5 +7,5 @@ Outside of the coding world, I'm interested in history, geopolitics, science, mu
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,c,python,linux,windows,notion,discord,gmail,linkedin&theme=light)](https://skillicons.dev)
 
 ## Languages: 
-##🇧🇷 Fluent/Native
-##🇺🇸 Intermidiate/Advanced
+## 🇧🇷 Fluent/Native
+## 🇺🇸 Intermidiate/Advanced
