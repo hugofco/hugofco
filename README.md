@@ -9,6 +9,8 @@
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,c,python,linux,windows,notion,discord&theme=light)](https://skillicons.dev)
+
 ### Languages: 
 - 🇧🇷 Fluent/Native
 - 🇺🇸 Intermidiate/Advanced
