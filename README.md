@@ -7,6 +7,6 @@ Outside of the coding world, I'm interested in history, geopolitics, science, mu
 # Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=docker,js,ts,react,fastapi,css,html,postgres,aws&theme=light)](https://skillicons.dev)
 
-# <a href="https://www.linkedin.com/in/hugo-francisco-rodrigues-b89618353/">Contact info here</a>
+# <a href="https://www.linkedin.com/in/hugo-francisco-rodrigues-b89618353/">Contact info here 📩</a>
 # Languages
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Description" width="80" height="50"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="Description" width="80" height="50">
