@@ -5,6 +5,7 @@ My goal is to use my skills and knowledge to build a career around local and ope
 Outside of the coding world, I'm interested in history, geopolitics, science, music, video games, chess, camping and reading.
 # Tools, Platforms and Skills
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,c,python,linux,windows,notion,discord,gmail,linkedin&theme=light)](https://skillicons.dev)
+
 <a href="https://www.linkedin.com/in/hugo-francisco-rodrigues-b89618353/">In case you'd like to contact me</a>
 # Languages
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Description" width="80" height="50"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="Description" width="80" height="50">
