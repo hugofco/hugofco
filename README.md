@@ -5,11 +5,9 @@
 ###                                                  Tools I use / Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,c,python,linux,windows,notion,discord" /> <img src="https://skillicons.dev/icons?i=github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,c,python,linux,windows,notion,discord" /><img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
 
 ### Languages: 
 - 🇧🇷 Fluent/Native
