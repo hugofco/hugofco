@@ -7,6 +7,7 @@ Outside of the coding world, I'm interested in history, geopolitics, science, mu
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,c,python,linux,windows,notion,discord,gmail,linkedin&theme=light)](https://skillicons.dev)
 
 # Languages
-<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Description" width="60" height="50"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="Description" width="60" height="50">
+<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Description" width="60" height="50"> Fluent/Native 
+<img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="Description" width="60" height="50"> Intermediate
 
 
