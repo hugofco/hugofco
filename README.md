@@ -4,8 +4,9 @@ I'm open to work
 My goal is to use my skills and knowledge to build a career around local and open source projects.
 Outside of the coding world, I'm interested in history, geopolitics, science, music, video games, chess, camping and reading.
 # Tools, Platforms and Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode<https://www.linkedin.com/in/hugo-francisco-rodrigues-b89618353/>,git,github,c,python,linux,windows,notion,discord,gmail,linkedin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,c,python,linux,windows,notion,discord,gmail,linkedin&theme=light)](https://skillicons.dev)
 # Contact/General Links
+### LinkedIn: https://www.linkedin.com/in/hugo-francisco-rodrigues-b89618353/
 
 
 # Languages
