@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+ <img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
 ### About me:
 - Software Developer and CS student interested in back-end and web development.
