@@ -3,7 +3,11 @@
 - My goal is to use my skills and knowledge to build a career around local applications, back-end development, web development and open source projects.
 - Outside of the coding world, I'm interested in history, geopolitics, science, music, video games, camping and reading.
 
-[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,python,,linux" />
+  </a>
+</p>
 
 ### Languages: 
 - 🇧🇷 Fluent/Native
