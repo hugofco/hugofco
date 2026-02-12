@@ -1,5 +1,5 @@
 # About me
-### Software Developer and 2nd year Undergaduate Computer Science student 💾
+### Software Developer and 2nd year undergrad CS student
 ### I'm interested in local/web applications, back-end, game development, homemade automation and some small low level projects in assembly.
 ### Outside of the coding world, I'm interested in history, geopolitics, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
 # Tools, Platforms and Skills
