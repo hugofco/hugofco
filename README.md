@@ -1,7 +1,7 @@
 # About me
 ### Software Developer and 2nd year undergrad CS student
-### I'm interested in local/web applications, back-end, game development, homemade automation and some small low level projects in assembly.
-### Outside of the coding world, I'm interested in history, geopolitics, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
+### I'm interested in local and web applications, back-end, game development, homemade automation and some small low level projects in assembly.
+### Outside of the coding world, I'm interested in history, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
 # Tools, Platforms and Skills
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,c,python,linux,windows,notion,discord,gmail,linkedin&theme=light)](https://skillicons.dev)
 # Currently Learning
