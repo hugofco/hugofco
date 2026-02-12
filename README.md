@@ -9,7 +9,7 @@
 
 # <a href="https://www.linkedin.com/in/hugo-francisco-rodrigues-b89618353/">Contact info here :envelope:</a>
 # I understand/speak
-<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Description" width="110" height="80"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="Description" width="110" height="80">
+<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Description" width="60" height="30"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="Description" width="60" height="30">
 # Basics/still learning
-<img src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="Description" width="110" height="80"> <img src="https://flagicons.lipis.dev/flags/4x3/no.svg" alt="Description" width="110" height="80">
+<img src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="Description" width="60" height="30"> <img src="https://flagicons.lipis.dev/flags/4x3/no.svg" alt="Description" width="60" height="30">
 
