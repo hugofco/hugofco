@@ -5,7 +5,7 @@
 # Tools I use
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,c,python,linux,windows,notion,discord,gmail,linkedin&theme=light)](https://skillicons.dev)
 # Tools I'm learning
-[![My Skills](https://skillicons.dev/icons?i=java,postgre,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,&theme=light)](https://skillicons.dev)
 
 # <a href="https://www.linkedin.com/in/hugo-francisco-rodrigues-b89618353/">Contact info here :envelope:</a>
 # I understand/speak
