@@ -3,7 +3,7 @@
 ### I'm interested in local and web applications, back-end, game development, homemade automation and some small low level projects in assembly.
 ### Outside of the coding world, I'm interested in history, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
 # Tools I use
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,c,python,linux,windows,notion,discord,gmail,linkedin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,asm,c,python,java,postgres,linux&theme=light)](https://skillicons.dev)
 # Tools I'm learning
 [![My Skills](https://skillicons.dev/icons?i=java,postgres,&theme=light)](https://skillicons.dev)
 
