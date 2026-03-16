@@ -1,4 +1,5 @@
 <img src="https://i.redd.it/zym5pybotlja1.gif" width="400">
+
 ## Aboute me
 ### Software developer and 2nd year undergrad CS student
 ### I'm interested in local and web applications, back-end, game development, homemade automation and some small low level projects in assembly.
