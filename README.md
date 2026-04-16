@@ -11,3 +11,4 @@
 <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="Description" width="60" height="45">
 <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="Description" width="60" height="45">
 <img src="https://flagicons.lipis.dev/flags/4x3/no.svg" alt="Description" width="60" height="45">
+![](<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" alt="Description" width="60" height="45">) | ![](<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" alt="Description" width="60" height="45">)
