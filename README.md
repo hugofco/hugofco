@@ -9,5 +9,5 @@
 ### I can speak | I'm learning:
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" align = "left" width= "100" height="70">
 <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" align= "center" width="114" height="60">
-<img src="https://flagicons.lipis.dev/flags/4x3/de.svg" align="left" width="100" height="60">
+<img src="https://flagicons.lipis.dev/flags/4x3/de.svg" align="right" width="100" height="60">
 <img src="https://flagicons.lipis.dev/flags/4x3/no.svg" align="center" width="64" height="88">
