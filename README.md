@@ -10,4 +10,4 @@
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" align = "left" width="60" height="45">
 <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" align= "center" width="60" height="45">
 <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" align="center" width="60" height="45">
-<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" align="right" width="60" height="45">
+<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" align="center" width="60" height="45">
