@@ -12,7 +12,4 @@
 ![](<img src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="Description" width="60" height="45">) 
 ![](<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" alt="Description" width="60" height="45">)
 
-
-| Image 1 | Image 2 |
-| :---: | :---: |
 | ![Alt1](https://flagicons.lipis.dev/flags/4x3/br.svg) | ![Alt2](https://flagicons.lipis.dev/flags/4x3/us.svg) |
