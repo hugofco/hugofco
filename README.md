@@ -5,5 +5,5 @@ I'm interested in local and web applications, back-end, game development, homema
 ## What I use
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,notion,git,github,c,python,java,linux&theme=dark)](https://skillicons.dev)
 ## <a href="https://www.linkedin.com/in/hugo-francisco-r-b89618353?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglip14mIRKW75zDz3W5s5w%3D%3D">Contact info here :envelope:</a>
-## I speak &nbsp; |&nbsp; I'm learning
+## &nbsp;I speak &nbsp; |&nbsp; I'm learning
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="60">  <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width= "60">  <img src="https://flagicons.lipis.dev/flags/4x3/no.svg" width= "60">  <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "60">
