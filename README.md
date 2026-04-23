@@ -1,5 +1,5 @@
 <div style="text-align: right;">
-  <img src="https://i.redd.it/g50rlvxv8bfb1.gif width= "56"" alt="Right Aligned">
+  <img src="https://i.redd.it/g50rlvxv8bfb1.gif" width= "56">
 </div>
 
 ## About me
