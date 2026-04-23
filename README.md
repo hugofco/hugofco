@@ -1,4 +1,4 @@
-<img src= "https://i.redd.it/g50rlvxv8bfb1.gif" width= 240>
+<img src= "https://i.redd.it/g50rlvxv8bfb1.gif" width= 120>
 
 ## About me
 ### Software developer and 2nd year undergrad CS student.
