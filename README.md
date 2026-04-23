@@ -1,4 +1,4 @@
-### Software developer and 2nd year undergrad CS student.                                               <img src= "https://i.redd.it/g50rlvxv8bfb1.gif" width= 120>
+### Software developer and 2nd year undergrad CS student. <img src= "https://i.redd.it/g50rlvxv8bfb1.gif" width= 50>
 ### I'm interested in local and web applications, back-end, game development, homemade automation and some small low level projects in x86 Assembly. Outside of the coding world, I'm interested in history, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
 ## What I use
 [![My Skills](https://skillicons.dev/icons?i=notion,vscode,vim,git,github,c,python,java,linux&theme=dark)](https://skillicons.dev)
