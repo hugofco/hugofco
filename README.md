@@ -1,4 +1,6 @@
-<img src="https://i.redd.it/g50rlvxv8bfb1.gif" width="146">
+<div style="text-align: right;">
+  <img src="https://i.redd.it/g50rlvxv8bfb1.gif" alt="Right Aligned">
+</div>
 
 ## About me
 ### Software developer and 2nd year undergrad CS student.
