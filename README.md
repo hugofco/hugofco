@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://i.redd.it/g50rlvxv8bfb1.gif" width= "50">
+  <img src="https://i.redd.it/g50rlvxv8bfb1.gif" width= "120">
 </p>
 
 ### Software developer and 2nd year undergrad CS student. 
