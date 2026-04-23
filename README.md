@@ -1,4 +1,5 @@
-<<img src="https://i.redd.it/g50rlvxv8bfb1.gif" width="146">
+<img src="https://i.redd.it/g50rlvxv8bfb1.gif" width="146">
+
 ## About me
 ### Software developer and 2nd year undergrad CS student.
 ### I'm interested in local and web applications, back-end, game development, homemade automation and some small low level projects in x86 Assembly. Outside of the coding world, I'm interested in history, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
@@ -8,4 +9,4 @@
 ## I speak/understand
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="80">   <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width= "80">
 ## I'm learning
-<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" width= "80">   <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "80">>
+<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" width= "80">   <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "80">
