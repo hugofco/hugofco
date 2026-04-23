@@ -1,4 +1,4 @@
-<img src="https://i.redd.it/g50rlvxv8bfb1.gif" width="146" style="float: right;">
+<img src="https://i.redd.it/g50rlvxv8bfb1.gif" width="146">
 
 ## About me
 ### Software developer and 2nd year undergrad CS student.
