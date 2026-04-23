@@ -3,7 +3,5 @@
 ## What I use
 [![My Skills](https://skillicons.dev/icons?i=notion,vscode,vim,git,github,c,python,java,linux&theme=dark)](https://skillicons.dev)
 ## <a href="https://www.linkedin.com/in/hugo-francisco-r-b89618353?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglip14mIRKW75zDz3W5s5w%3D%3D">Contact info here :envelope:</a>
-## I speak/understand
-<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="80"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width= "80">
-## I'm learning
-<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" width= "80"> <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "80">
+## I speak/understand | ## I'm learning
+<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="80"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width= "80"><img src="https://flagicons.lipis.dev/flags/4x3/no.svg" width= "80"> <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "80">
