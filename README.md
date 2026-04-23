@@ -8,4 +8,4 @@
 ## I speak/understand
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="80">   <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width= "80">
 ## I'm learning
-<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" width= "80">   <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "80">
+<img src="https://flagicons.lipis.dev/flags/4x3/no.svg" width= "80">   <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "80">>
