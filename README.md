@@ -1,4 +1,5 @@
-<img src= "https://i.redd.it/g50rlvxv8bfb1.gif">
+<img src= "https://i.redd.it/g50rlvxv8bfb1.gif" width= 240>
+
 ## About me
 ### Software developer and 2nd year undergrad CS student.
 ### I'm interested in local and web applications, back-end, game development, homemade automation and some small low level projects in x86 Assembly. Outside of the coding world, I'm interested in history, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
