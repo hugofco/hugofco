@@ -1,4 +1,4 @@
-## Hello!. 
+## Hi!
 ### I'm interested in local and web applications, back-end, game development, homemade automation and some small low level projects in x86 Assembly. Outside of the coding world, I'm interested in history, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
 ### What I use
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,git,github,c,python,java,linux,docker&theme=dark)](https://skillicons.dev)
