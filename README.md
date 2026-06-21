@@ -15,9 +15,9 @@
 <details>
   <summary>Github Stats</summary>
   
-  <a href="#">![Github Stats](https://github-readme-stats.vercel.app/api?username=hugofco&theme=prussian&show_icons=true&hide_border=false&count_private=true&line_height=25)</a><a href="#">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofco&theme=prussian&show_icons=true&hide_border=false&layout=compact&line_height=10)</a>
-  
+  <a href="#">![Github Stats](https://github-readme-stats.vercel.app/api?username=hugofco&theme=prussian&show_icons=true&hide_border=false&count_private=true&line_height=25)</a>
   <a href="#">![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugofco&theme=prussian&hide_border=false&line_height=10)
+  <a href="#">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofco&theme=prussian&show_icons=true&hide_border=false&layout=compact&line_height=10)</a>
 </details>
 
 ---
