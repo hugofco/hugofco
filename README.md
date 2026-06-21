@@ -2,7 +2,7 @@
 
 ### I'm interested in back-end development, a little bit of front-end, game development, homemade automation and some small low level projects in x86 Assembly. Outside of the CS world, I'm interested in history, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
 
-### What I use
+### I use
 
 [![My Skills](https://skillicons.dev/icons?i=notion,vscode,vim,git,github,c,python,java,linux,docker,mysql,md&theme=dark)](https://skillicons.dev)
 
