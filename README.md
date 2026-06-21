@@ -12,11 +12,8 @@
 
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="50"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width= "50"> <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "50">
 
-<details>
-  <summary>Github Stats</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hugofco&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofco&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-</details>
+![hugofco's Stats](https://github-readme-stats.vercel.app/api?username=hugofco&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+![hugofco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugofco&theme=prussian&hide_border=false)
+![hugofco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofco&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 ---
