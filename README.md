@@ -1,9 +1,5 @@
 ---
 
-![hugofco's Stats](https://github-readme-stats.vercel.app/api?username=hugofco&theme=prussian&show_icons=true&hide_border=false&count_private=true)
-![hugofco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugofco&theme=prussian&hide_border=false)
-![hugofco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofco&theme=prussian&show_icons=true&hide_border=false&layout=compact)
-
 ### I'm interested in back-end development, a little bit of front-end, game development, homemade automation and some small low level projects in x86 Assembly. Outside of the CS world, I'm interested in history, science, music, video games, learning languages, legacy tech, chess, camping, fishing and reading.
 
 ### What I use
@@ -15,5 +11,11 @@
 ### I can speak | I'm learning
 
 <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="50"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width= "50"> <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "50">
+
+![hugofco's Stats](https://github-readme-stats.vercel.app/api?username=hugofco&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+
+![hugofco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugofco&theme=prussian&hide_border=false)
+
+![hugofco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofco&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 ---
