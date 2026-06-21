@@ -16,6 +16,7 @@
   <summary>Github Stats</summary>
   
   <a href="#">![Github Stats](https://github-readme-stats.vercel.app/api?username=hugofco&theme=nord&show_icons=true&hide_border=true&count_private=true&line_height=25)</a>
+  <a href="#">![](https://www.reddit.com/r/PixelArt/comments/1fudmzg/a_brief_moment_of_rest/?tl=pt-br#lightbox)</a>
   <a href="#">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofco&theme=nord&show_icons=true&hide_border=true&layout=compact)</a>
 </details>
 
