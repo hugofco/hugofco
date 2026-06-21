@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=notion,vscode,vim,git,github,c,python,java,linux,docker,mysql,md&theme=dark)](https://skillicons.dev)
 
-### <a href="https://www.linkedin.com/in/hugo-francisco-r-b89618353?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglip14mIRKW75zDz3W5s5w%3D%3D">Contact info here: 📫</a>
+### <a href="https://www.linkedin.com/in/hugo-francisco-r-b89618353?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglip14mIRKW75zDz3W5s5w%3D%3D">📫 Contact info</a>
 
 ### I can speak | I'm learning
 
