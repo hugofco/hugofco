@@ -8,6 +8,4 @@
 
 ### <a href="https://www.linkedin.com/in/hugo-francisco-r-b89618353?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglip14mIRKW75zDz3W5s5w%3D%3D">📫 Contact info</a>
 
-### I can speak | I'm learning
-
-<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="50"> <img src="https://flagicons.lipis.dev/flags/4x3/ca.svg" width= "50"> <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "50">
+### I speak portuguese, english C1 (CEFR) and learning german right now
