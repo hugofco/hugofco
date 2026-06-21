@@ -10,13 +10,4 @@
 
 ### I can speak | I'm learning
 
-<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="50"> <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width= "50"> <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "50">
-
-<details>
-  <summary>Github Stats</summary>
-  
-  <a href="#">![Github Stats](https://github-readme-stats.vercel.app/api?username=hugofco&theme=nord&show_icons=true&hide_border=true&count_private=true&line_height=29)</a>
-  <a href="#">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugofco&theme=nord&show_icons=true&hide_border=true&layout=donut)</a>
-</details>
-
----
+<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="50"> <img src="https://flagicons.lipis.dev/flags/4x3/ca.svg" width= "50"> <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width= "50">
