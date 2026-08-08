@@ -1,2 +1,2 @@
 ## Tech stack 💾
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,arduino,c,java,python,docker,mysql,linux,notion,md&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vim,arduino,vscode,c,java,python,mysql,linux,docker,notion,md&theme=dark)](https://skillicons.dev)
