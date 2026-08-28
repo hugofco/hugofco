@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-### outside the CS World
+### outside the CS world
 
 <table>
   <tr>
