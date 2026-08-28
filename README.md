@@ -2,15 +2,12 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vim,arduino,vscode,c,java,python,mysql,linux,docker,notion,md,html,css&theme=dark)](https://skillicons.dev)
 <details>
   <summary><h3>what I like to work with</h3></summary>
-
   ```text
   I'm interested in working with back-end development, embedded systems, automation, robotics, web, games, and DevOps.
   ```
 </details>
-
 <details>
   <summary><h3>outside the CS world</h3></summary>
-
   ```text
   When I'm not coding, I enjoy camping, fishing, reading, gaming, history, music, language learning, and playing Chess.
   ```
