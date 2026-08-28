@@ -1,26 +1,28 @@
 ### tech stack
 [![My Skills](https://skillicons.dev/icons?i=git,github,vim,arduino,vscode,c,java,python,mysql,linux,docker,notion,md,html,css&theme=dark)](https://skillicons.dev)
-### what I like to work with
+<details>
+  <summary><h3>what I like to work with</h3></summary>
 
-<table>
-  <tr>
-    <td>
-      I'm interested in working with <b>back-end development</b>, <b>embedded systems</b>, <b>automation</b>, <b>robotics</b>, <b>web</b>, <b>games</b>, and <b>DevOps</b>.
-    </td>
-  </tr>
-</table>
+  ```text
+  I'm interested in working with back-end development, embedded systems, automation, robotics, web, games, and DevOps.
+  ```
+</details>
 
-### outside the CS world
+<details>
+  <summary><h3>outside the CS world</h3></summary>
 
-<table>
-  <tr>
-    <td>
-      When I'm not coding, I enjoy <b>camping</b>, <b>fishing</b>, <b>reading</b>, <b>gaming</b>, <b>history</b>, <b>music</b>, <b>language learning</b>, and playing <b>Chess</b>.
-    </td>
-  </tr>
-</table>
+  ```text
+  When I'm not coding, I enjoy camping, fishing, reading, gaming, history, music, language learning, and playing Chess.
+  ```
+</details>
 
-### languages
+<details>
+  <summary><h3>languages</h3></summary>
+<br>
+  
+<img src="https://flagcdn.com/w40/br.png" width="20" alt="Brazil Flag"> <b>Portuguese:</b> Native <br><br>
+<img src="https://flagcdn.com/w40/us.png" width="20" alt="US Flag"> <b>English:</b> Intermediate to Advanced
+
 
 <table>
   <tr>
