@@ -7,7 +7,6 @@
   I'm interested in working with back-end development, embedded systems, automation, robotics, web, games, and DevOps.
   ```
 </details>
-
 <details>
   <summary><h3>outside the CS world</h3></summary>
 
@@ -15,7 +14,6 @@
   When I'm not coding, I enjoy camping, fishing, reading, gaming, history, music, language learning, and playing Chess.
   ```
 </details>
-
 <details>
   <summary><h3>languages</h3></summary>
 <br>
