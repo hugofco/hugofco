@@ -1,5 +1,5 @@
 ## what I currently use the most (tech stack)
-[![My Skills](https://skillicons.dev/icons?i=git,arduino,godot,c,cpp,python,django,fastapi,grafana,nginx,prometheus,js,html,css,mysql,linux,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,arduino,godot,c,cpp,python,django,fastapi,js,html,css,mysql,linux,docker&theme=dark)](https://skillicons.dev)
 
 **My interests are back-end development, embedded systems, automation, robotics, web, games and DevOps.**
 
