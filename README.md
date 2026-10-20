@@ -1,4 +1,4 @@
-## what I currently use the most (tech stack)
+##            what I currently use the most (tech stack)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,godot,c,cpp,python,django,fastapi,mysql,linux,docker&theme=dark" />
