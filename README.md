@@ -1,4 +1,7 @@
-<center>what I currently use the most (tech stack)</center>
+<div align="center">
+  <h1>Your Title Here</h1>
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,godot,c,cpp,python,django,fastapi,mysql,linux,docker&theme=dark" />
