@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,godot,c,cpp,python,django,fastapi,mysql,linux,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=notion,git,arduino,godot,vscode,vim,c,cpp,python,django,fastapi,mysql,linux,docker&theme=dark" />
   </a>
 </p>
 
