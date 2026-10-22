@@ -1,12 +1,12 @@
-<div align="center">
-  <h4>Tech stack (what I use the most)</h4>
-</div>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,godot,c,cpp,python,django,fastapi,prometheus,grafana,mysql,linux,docker&theme=dark" />
   </a>
 </p>
+
+<div align="center">
+  <h3>Tech stack (what I use the most)</h3>
+</div>
 
 <details>
   <summary><strong>Additional details</strong></summary>
