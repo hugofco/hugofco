@@ -10,11 +10,7 @@
 
 <details>
   <summary>Additional details</summary>
-  
+  <strong>My interests are back-end development, embedded systems, automation, robotics, web, games and DevOps.</strong>
+  <strong>Outside of the CS world I like doing some side projects tied to what I study and work with for fun, camping, fishing, reading, gaming, history, music, language learning and Chess.</strong>
+  <strong>I speak Portuguese natively and intermediate to advanced English.</strong>
 </details>
-
-**My interests are back-end development, embedded systems, automation, robotics, web, games and DevOps.**
-
-**Outside of the CS world I like doing some side projects tied to what I study and work with for fun, camping, fishing, reading, gaming, history, music, language learning and Chess.**
-
-**I speak Portuguese natively and intermediate to advanced English.**
