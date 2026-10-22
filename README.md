@@ -1,4 +1,4 @@
-##tech stack (what I use the most)
+### tech stack (what I use the most)
 
 <p align="center">
   <a href="https://skillicons.dev">
