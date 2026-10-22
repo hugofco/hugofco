@@ -1,5 +1,5 @@
 <div align="center">
-  <h4>Tech stack (what I use the most)</h4>
+  <h3>Tech stack (what I use the most)</h3>
 </div>
 
 <p align="center">
@@ -11,6 +11,25 @@
 <div align="center">
   <h5>I'm interested in back-end development, embedded systems, automation, robotics, web, games and DevOps</h5>
 </div>
+
+<div align="center">
+  <h5>Outside of the CS world I like doing some side projects tied to what I study and work with for fun, camping, fishing, reading, gaming, history, music, language learning and Chess.</h5>
+</div>
+
+<div align="center">
+  <h5>I speak Portuguese natively and intermediate to advanced English.</h5>
+</div>
+
+<details>
+  <summary><strong>Additional details</strong></summary>
+  <div align="center">
+  <h5>Outside of the CS world I like doing some side projects tied to what I study and work with for fun, camping, fishing, reading, gaming, history, music, language learning and Chess.</h5>
+</div>
+
+<div align="center">
+  <h5>I speak Portuguese natively and intermediate to advanced English.</h5>
+</div>
+</details>
 
 <details>
   <summary><strong>Additional details</strong></summary>
