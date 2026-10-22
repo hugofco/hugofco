@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Tech stack (what I use the most)</h3>
+  <h4>Tech stack (what I use the most)</h4>
 </div>
 
 <p align="center">
