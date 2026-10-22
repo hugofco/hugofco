@@ -1,4 +1,6 @@
-<p style="text-align:center;">Tech stack (what I use the most)</p>
+<div align="center">
+  <h3>This text is centered.</h3>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
