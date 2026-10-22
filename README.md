@@ -1,4 +1,8 @@
-### tech stack (what I use the most)
+<p align="center">
+  <a>
+    <h3>Tech stack (what I use the most)<h3>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
