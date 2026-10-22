@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <h3>I'm interested in back-end development, embedded systems, automation, robotics, web, games and DevOps</h3>
+  <h5>I'm interested in back-end development, embedded systems, automation, robotics, web, games and DevOps</h5>
 </div>
 
 <details>
