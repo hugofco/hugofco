@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<details>
+  <summary>Additional details</summary>
+  
+</details>
+
 **My interests are back-end development, embedded systems, automation, robotics, web, games and DevOps.**
 
 **Outside of the CS world I like doing some side projects tied to what I study and work with for fun, camping, fishing, reading, gaming, history, music, language learning and Chess.**
