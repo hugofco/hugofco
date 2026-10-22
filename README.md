@@ -8,14 +8,10 @@
   </a>
 </p>
 
-<div align="left">
-  <h5>I'm interested in back-end development, embedded systems, homemade automation, games and DevOps .</h5>
-</div>
-
 <details>
   <summary><strong>Additional details</strong></summary>
-  <div align="center">
-    <h5>I'm interested in back-end development, embedded systems, homemade automation, games and DevOps .</h5>
-    <h5>Outside of the CS world I like doing some side projects tied to what I study and work with for fun, camping, fishing, reading,       gaming, history, music, language learning and Chess.</h5>
-    <h5>I speak Portuguese natively and intermediate to advanced English.</h5>
+  <div align="left">
+    <h4>I'm interested in back-end development, embedded systems, homemade automation, games and DevOps .</h5>
+    <h4>Outside of the CS world I like doing some side projects tied to what I study and work with for fun, camping, fishing, reading,       gaming, history, music, language learning and Chess.</h5>
+    <h4>I speak Portuguese natively and intermediate to advanced English.</h5>
 </div>
