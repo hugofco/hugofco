@@ -1,6 +1,10 @@
 ###tech stack (what I use the most)
 
-[![My Skills](git,arduino,godot,c,cpp,python,django,fastapi,prometheus,grafana,mysql,linux,docker&theme=dark")](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="git,arduino,godot,c,cpp,python,django,fastapi,prometheus,grafana,mysql,linux,docker&theme=dark"" />
+  </a>
+</p>
 
 **I'm interested in back-end development, embedded systems, automation, robotics, web, games and DevOps.**
 
