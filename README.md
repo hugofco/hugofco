@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>This text is centered.</h3>
+  <h3>Tech stack (what I use the most)</h3>
 </div>
 
 <p align="center">
@@ -8,7 +8,9 @@
   </a>
 </p>
 
-**I'm interested in back-end development, embedded systems, automation, robotics, web, games and DevOps.**
+<div align="center">
+  <h3>I'm interested in back-end development, embedded systems, automation, robotics, web, games and DevOps</h3>
+</div>
 
 <details>
   <summary><strong>Additional details</strong></summary>
