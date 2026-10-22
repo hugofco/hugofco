@@ -1,4 +1,4 @@
-<center><h3>Tech stack (what I use the most)<h3></center>
+<p style="text-align:center;">Tech stack (what I use the most)</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
