@@ -1,12 +1,6 @@
-<div align="left">
-  <h2>tech stack (what I use the most)</h2>
-</div>
+###tech stack (what I use the most)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,godot,c,cpp,python,django,fastapi,prometheus,grafana,mysql,linux,docker&theme=dark" />
-  </a>
-</p>
+[![My Skills](git,arduino,godot,c,cpp,python,django,fastapi,prometheus,grafana,mysql,linux,docker&theme=dark")](https://skillicons.dev)
 
 **I'm interested in back-end development, embedded systems, automation, robotics, web, games and DevOps.**
 
