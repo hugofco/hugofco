@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
   <h3>Tech stack (what I use the most)</h3>
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,godot,c,cpp,python,django,fastapi,prometheus,grafana,mysql,linux,docker&theme=dark" />
   </a>
